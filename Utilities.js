@@ -251,4 +251,4 @@ export const classColors = {
 export const breakpoint = 1080;
 export const extVersion = '1.1.7';
 const isProd = process.env.NODE_ENV === "production";
-export const prefix = isProd ? "/IdleonToolbox/" : "/";
+export const prefix = isProd ? "/" : "/";
